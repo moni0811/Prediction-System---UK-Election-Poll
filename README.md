@@ -11,7 +11,7 @@ The purpose of this analysis is to:
 
 ## 📂 What's in the Repo
 
-- `uk__election_poll.py` – Python script containing the full modeling and evaluation pipeline  
+- `uk_election_poll.ipynb` – Python script containing the full modeling and evaluation pipeline  
 - `README.md` – This file
 
 > **Note:** The dataset (`Election_Data.xlsx`) contains confidential survey responses and is **not included** in this repository. For internal use, ensure the dataset is placed in the project root directory before executing the script.
@@ -34,7 +34,6 @@ The project workflow includes the following stages:
 
 3. **Data Preparation**
    - Encoded categorical features (`gender`, `vote`)
-   - Verified that scaling was not essential for tree-based models
    - Split the data into training (70%) and testing (30%) subsets
 
 4. **Modeling**
