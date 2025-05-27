@@ -11,7 +11,7 @@ The purpose of this analysis is to:
 
 ## 📂 What's in the Repo
 
-- `uk_election_poll.ipynb` – Python script containing the full modeling and evaluation pipeline  
+- `UK__Election_Poll.ipynb` – Python script containing the full modeling and evaluation pipeline  
 - `README.md` – This file
 
 > **Note:** The dataset (`Election_Data.xlsx`) contains confidential survey responses and is **not included** in this repository. For internal use, ensure the dataset is placed in the project root directory before executing the script.
